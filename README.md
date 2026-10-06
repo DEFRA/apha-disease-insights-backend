@@ -1,8 +1,8 @@
-# cdp-python-backend-template
+# apha-disease-insights-backend
 
 This is work-in-progress. See [To Do List](./TODO.md)
 
-- [cdp-python-backend-template](#cdp-python-backend-template)
+- [apha-disease-insights-backend](#apha-disease-insights-backend)
   - [Requirements](#requirements)
     - [Python](#python)
     - [Linting and Formatting](#linting-and-formatting)
